@@ -1,0 +1,11 @@
+Package: filebeat
+Version: 7.12.1
+License: Elastic-License
+Vendor: Elastic
+Architecture: amd64
+Maintainer: <@fb2eea2ce896>
+Installed-Size: 119003
+Section: default
+Priority: extra
+Homepage: https://www.elastic.co/products/beats/filebeat
+Description: Filebeat sends log files to Logstash or directly to Elasticsearch.
